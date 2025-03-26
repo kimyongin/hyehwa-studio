@@ -55,8 +55,10 @@ export default function Home() {
                 문의하기 <ArrowRight className="ml-2 h-4 w-4" />
               </Link>
             </Button>
-            <Button asChild size="lg" variant="outline">
-              <Link href="/about">더 알아보기</Link>
+            <Button asChild size="lg" className="bg-red-600 hover:bg-red-700">
+              <Link href="/about">
+                더 알아보기 <ArrowRight className="ml-2 h-4 w-4" />
+              </Link>
             </Button>
           </div>
         </div>
@@ -181,7 +183,7 @@ export default function Home() {
             })}
           </div>
           <div className="text-center mt-10">
-            <Button asChild variant="outline">
+            <Button asChild size="lg" className="bg-red-600 hover:bg-red-700">
               <Link href="/project">
                 모든 프로젝트 보기 <ArrowRight className="ml-2 h-4 w-4" />
               </Link>

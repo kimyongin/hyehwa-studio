@@ -11,9 +11,6 @@ export default function HistoryPage() {
             <div className="md:col-span-1 mb-2 md:mb-0 md:text-right">
               <span className="text-xl font-bold text-red-500">{item.year}</span>
             </div>
-
-            <div className="hidden md:block absolute left-0 md:left-[40%] w-3 h-3 bg-red-500 rounded-full mt-2 -ml-1.5"></div>
-
             <div className="md:col-span-4 bg-zinc-800 p-6 rounded-lg">
               <h3 className="text-xl font-bold mb-2">{item.project}</h3>
               {item.client && <p className="text-zinc-400">클라이언트: {item.client}</p>}

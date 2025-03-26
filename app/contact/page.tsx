@@ -1,5 +1,5 @@
 import studioData from "@/data/studio-data.json"
-import { Phone, Mail, MapPin } from "lucide-react"
+import { Phone, Mail, MapPin, User } from "lucide-react"
 import Image from "next/image"
 
 export default function ContactPage() {
@@ -36,14 +36,20 @@ export default function ContactPage() {
             <div>
               <h3 className="text-lg font-semibold">주소</h3>
               <p className="text-zinc-300">{studioData.contact.contactInfo.주소}</p>
-              <p className="text-zinc-400 mt-2">4호선 혜화역 도보 10분 거리</p>
+              <p className="text-zinc-400 mt-2">{studioData.contact.contactInfo.주소설명}</p>
             </div>
           </div>
-        </div>
 
-        <div className="mt-8">
-          <h3 className="text-lg font-semibold mb-4">담당자</h3>
-          <p className="text-zinc-300">{studioData.contact.contactInfo.담당자}</p>
+          <div className="flex items-start">
+            <div className="bg-red-500 p-3 rounded-full mr-4">
+              <User className="h-6 w-6 text-white" />
+            </div>
+            <div>
+              <h3 className="text-lg font-semibold">담당자</h3>
+              <p className="text-zinc-300">{studioData.contact.contactInfo.담당자}</p>
+            </div>
+          </div>
+
         </div>
 
         <div className="mt-12 h-80 bg-zinc-800 rounded-lg relative overflow-hidden">
@@ -54,7 +60,7 @@ export default function ContactPage() {
             className="object-cover"
           />
           <div className="absolute inset-0 bg-black/60 flex items-center justify-center">
-            <p className="text-white text-lg">서울시 종로구 이화장길 32-1, 4층</p>
+            <p className="text-white text-lg">{studioData.contact.contactInfo.주소}</p>
           </div>
         </div>
       </div>
