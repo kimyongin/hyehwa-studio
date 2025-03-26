@@ -1,0 +1,291 @@
+{
+  "about": {
+    "description": [
+      "혜화 녹음실은 4호선 혜화역 도보 10분 거리에 위치한 조용하고 차분한 분위기의 스튜디오입니다.",
+      "프로 뮤지션, 기업, 인디 아티스트, 아마추어 등 다양한 음악 작업자들이 편안하게 소통하며 창작할 수 있는 공간을 제공합니다.",
+      "음악 녹음, 편집, 믹싱, 마스터링 등 음원 제작의 전 과정을 최신 장비와 최적의 환경에서 진행하며,",
+      "15년 이상의 상업 음악 프로젝트 경험을 바탕으로 합리적인 price에 높은 퀄리티를 보장합니다."
+    ]
+  },
+  "project": {
+    "list": [
+      {
+        "category": "Ani Pop",
+        "title": "Tori - Shooting for the Star",
+        "roles": ["녹음", "믹싱", "마스터링"],
+        "soundcloud": "https://soundcloud.com/jonghyung-kim-481850336/tori-shooting-fot-the-star"
+      },
+      {
+        "category": "Modern Rock",
+        "title": "정재헌(성우) - 행복을 만나는 방법",
+        "roles": ["녹음", "믹싱", "마스터링"],
+        "soundcloud": "https://soundcloud.com/jonghyung-kim-481850336/soundtrack-l"
+      },
+      {
+        "category": "Ballad",
+        "title": "이정은 - 우산",
+        "roles": ["녹음", "믹싱", "마스터링"],
+        "soundcloud": "https://soundcloud.com/jonghyung-kim-481850336/1e5cbaa7-0931-428a-b66c-46b7dbaef440"
+      },
+      {
+        "category": "J-Rock Style",
+        "title": "김준경(적란운) - Timeline",
+        "roles": ["녹음", "믹싱", "마스터링"],
+        "soundcloud": "https://soundcloud.com/jonghyung-kim-481850336/timeline",
+      },
+      {
+        "category": "Retro Synth Pop",
+        "title": "Hero Inside SoundtrackㅣXYZ - Cry For You",
+        "roles": ["녹음", "믹싱", "마스터링"],
+        "youtube": "https://www.youtube.com/watch?v=_zioARTAW7g&t=1111s"
+      },
+      {
+        "category": "Ani Rock",
+        "title": "Tori - Note of Discord",
+        "roles": ["녹음", "믹싱", "마스터링"],
+        "youtube": "https://www.youtube.com/watch?v=LoUVWQLrcxI"
+      },
+      {
+        "category": "Ani OP",
+        "title": "김하영 - Space Jungle OP",
+        "roles": ["녹음", "믹싱", "마스터링"],
+        "youtube": "https://www.youtube.com/watch?v=uBJjWZ6ZZOQ&t=1111s"
+      },
+      {
+        "category": "Rock",
+        "title": "Bumpiz - AM 04:30",
+        "roles": ["녹음", "믹싱", "마스터링"],
+        "youtube": "https://www.youtube.com/watch?v=vAr7sYAoZQE"
+      }
+    ]
+  },
+  "history": {
+    "list": [
+      {
+        "year": "2025",
+        "project": "리듬게임 \"고양이 천국\"",
+        "client": "OG Inc."
+      },
+      {
+        "year": "2024-2023",
+        "project": "애니메이션 \"히어로 인사이드 S1-S2\"",
+        "client": "Million Volt, CJ ENM, Tencent, YGG Global"
+      },
+      {
+        "year": "2023",
+        "project": "광고 \"Sealook KB 국민은행\"",
+        "client": "Million Volt, 핑크퐁"
+      },
+      {
+        "year": "2022",
+        "project": "밴드 Bumpiz \"얼음길\" EP 앨범"
+      },
+      {
+        "year": "2021",
+        "project": "애니메이션 \"피치파이브 S1\"",
+        "client": "Kakao Friends"
+      },
+      {
+        "year": "2021",
+        "project": "애니메이션 \"정글박스\"",
+        "client": "38°C Animation Studio, CJ ENM"
+      },
+      {
+        "year": "2020",
+        "project": "애니메이션 \"도기코기 S2\"",
+        "client": "Studio Goildol"
+      },
+      {
+        "year": "2019",
+        "project": "애니메이션 \"My Giant Nerd Boyfriend\"",
+        "client": "Studio Lico"
+      },
+      {
+        "year": "2018",
+        "project": "애니메이션 \"콩콩랜드\"",
+        "client": "CGPIXEL"
+      },
+      {
+        "year": "2017",
+        "project": "애니메이션 \"구도일 패밀리 S2\"",
+        "client": "Coan Studio, S-Oil"
+      },
+      {
+        "year": "2016-2014",
+        "project": "애니메이션 \"스페이스 정글 S1-S2\"",
+        "client": "Coan Studio, CJ ENM"
+      },
+      {
+        "year": "2016",
+        "project": "광고 \"현대자동차 Euro 2016\""
+      },
+      {
+        "year": "2015",
+        "project": "광고 \"롯데푸드\""
+      },
+      {
+        "year": "2015",
+        "project": "광고 \"기아자동차\""
+      },
+      {
+        "year": "2014-2012",
+        "project": "광고 \"한화 아쿠아플라넷 제주,여수,일산\""
+      }
+    ]
+  },
+  "gear": {
+    "list": [
+      {
+        "category": "마이크",
+        "items": ["Neumann U87 ai"]
+      },
+      {
+        "category": "프리앰프",
+        "items": ["AMS NEVE 1073 dpx"]
+      },
+      {
+        "category": "스피커",
+        "items": ["Genelec 8030A"]
+      },
+      {
+        "category": "오디오인터페이스",
+        "items": ["Apollo Silver Quad", "Apollo Sliver Twin"]
+      },
+      {
+        "category": "헤드폰",
+        "items": ["Senheiser HD600", "Shure SRH 440", "SONY MDR-7506 X3"]
+      },
+      {
+        "category": "기타앰프",
+        "items": ["Marshall JCM 200 TSL", "Vox AC30 C2", "Fender Twin Reverb"]
+      },
+      {
+        "category": "기타",
+        "items": ["Twonote Torpedo Live", "Kahayan 8X4 Amp/Speaker Selector 등"]
+      }
+    ]
+  },
+  "pricing": {
+    "studio": {
+      "list": [
+        {
+          "service": "보컬_녹음",
+          "details": [
+            {
+              "contents": "1시간 녹음",
+              "price": "5만 원",
+              "notes": null
+            },
+            {
+              "contents": "한 프로(3시간) 녹음",
+              "price": "15만 원",
+              "notes": null
+            }
+          ]
+        },
+        {
+          "service": "보컬_편집_튠",
+          "details": [
+            {
+              "contents": "메인 보컬 트랙당",
+              "price": "5만 원",
+              "notes": "옵션"
+            },
+            {
+              "contents": "코러스(하모니) 트랙당",
+              "price": "1만 원",
+              "notes": "옵션"
+            },
+            {
+              "contents": "10트랙 이상 할인 가능",
+              "price": "협의",
+              "notes": "예: 10~50% 할인"
+            },
+            {
+              "contents": "난이도 높은 작업(박자 보정 등) 추가 요금",
+              "price": "+50% 가능",
+              "notes": "옵션"
+            }
+          ]
+        },
+        {
+          "service": "믹싱",
+          "details": [
+            {
+              "contents": "10트랙 이하",
+              "price": "15만 원",
+              "notes": null
+            },
+            {
+              "contents": "11~20트랙",
+              "price": "20만 원",
+              "notes": null
+            },
+            {
+              "contents": "21~30트랙",
+              "price": "30만 원",
+              "notes": null
+            },
+            {
+              "contents": "31트랙 이상",
+              "price": "30만 원 + 초과 트랙당 1만 원 추가",
+              "notes": "예: 35트랙이면 34만 원"
+            }
+          ]
+        },
+        {
+          "service": "마스터링",
+          "details": [
+            {
+              "contents": "단독 진행",
+              "price": "5만 원",
+              "notes": null
+            },
+            {
+              "contents": "보컬 편집 + 튠 + 믹싱 포함 시 할인",
+              "price": "3만 원",
+              "notes": "패키지 적용"
+            }
+          ]
+        }
+      ],
+      "additionalNotes": [
+        "트랙 수 많을 경우 유동적 할인 가능",
+        "서브 트랙(FX, 리버스 신스 등) 개별 협의",
+        "빠른 작업 요청 시 추가 요금 조율 가능",
+        "MR제작, 음원제작 별도 문의",
+        "기업 클라이언트 별도 협의"
+      ]
+    },
+    "allinone": {
+      "service": "축가 / 유튜브 커버곡 올인원",
+      "details": [
+        {
+          "contents": "1시간 녹음 + 믹싱 + 마스터링",
+          "price": "10만 원",
+          "notes": "기본"
+        },
+        {
+          "contents": "음정 보정",
+          "price": "5만 원",
+          "notes": "옵션"
+        },
+        {
+          "contents": "난이도 높은 작업(박자 보정 등) 추가 요금",
+          "price": "3만 원",
+          "notes": "옵션"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "contactInfo": {
+      "담당자": "김종형 (혜화녹음실)",
+      "전화번호": "82 10-3003-8681",
+      "이메일": "6stringdream@gmail.com",
+      "주소": "서울시 종로구 이화장길 32-1, 4층",
+      "사업자등록번호": null
+    }
+  }
+}
+
